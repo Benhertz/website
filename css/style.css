@@ -1,4 +1,25 @@
+body {
+	font-size: 14px;
+	color: navy;
+	font-family: arial, helvetica;
+	background-color: #75E2E4;
+}
 
 p {
-    color: red;
+    color: #48C2DD;
+}
+
+h1 {
+	color: #807EFB;
+	background-color: #4931A8;
+	font-weight: bold;
+	text-decoration: underline;
+	text-transform: capitalize;
+}
+
+h2 {
+	font-size: 1.5em;
+	background-color: #DF26EC;
+	margin: 20px;
+	padding: 40px;
 }
