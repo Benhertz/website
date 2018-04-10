@@ -1,25 +1,21 @@
 body {
-	font-size: 14px;
-	color: navy;
-	font-family: arial, helvetica;
-	background-color: #75E2E4;
+	margin: 10px 10px 10px 20px;
 }
 
-p {
-    color: #48C2DD;
+.heading {
+	width: 220px;
+	height: 100px;
+	background-color: red;
+	padding: 50px;
+	margin: 50px;
+	font-family: 'Anton', sans-serif;
+	
 }
 
-h1 {
-	color: #807EFB;
-	background-color: #4931A8;
+#list ol {
+	color: blue;
 	font-weight: bold;
-	text-decoration: underline;
-	text-transform: capitalize;
-}
-
-h2 {
-	font-size: 1.5em;
-	background-color: #DF26EC;
-	margin: 20px;
-	padding: 40px;
+	border: 1px red solid;
+	width: 200px;
+	padding: 20px;
 }
